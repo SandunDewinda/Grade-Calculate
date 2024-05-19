@@ -1,2 +1,4 @@
 # Grade-Calculate
-This is simple grade calculator 
+This is a simple grade calculator 
+using JAVA
+Using If
